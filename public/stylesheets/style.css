@@ -6,3 +6,8 @@ img, .col-md-6 {
 h2 {
 	text-align: center;
 }
+
+.col-xs-3 {
+	border: 3px solid black;
+	
+}
