@@ -1,0 +1,19 @@
+{
+  "name": "galvanize-reads",
+  "version": "1.0.0",
+  "description": "Assessment #2 This assessment is to create a books library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enleightond/galvanize-reads.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enleightond/galvanize-reads/issues"
+  },
+  "homepage": "https://github.com/enleightond/galvanize-reads#readme"
+}
